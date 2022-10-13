@@ -30,7 +30,7 @@ Your users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Ramachandra Anirudh Vemulapalli)(https://www.frontendmentor.io/profile/aniru-dh21)
+- Frontend Mentor - [@Ramachandra Anirudh Vemulapalli](https://www.frontendmentor.io/profile/aniru-dh21)
 
 ## Acknowledgements
 
